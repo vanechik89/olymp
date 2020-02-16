@@ -1,5 +1,5 @@
   GM_setValue('percentThreshold_BTCUSD', 88)
-  GM_setValue('percentThreshold_ETHUSD', 77)
+  GM_setValue('percentThreshold_ETHUSD', 88)
   GM_setValue('percentThreshold_XRPUSD', 75)
   GM_setValue('percentThreshold_ETCUSD', 75)
   GM_setValue('percentThreshold_ZECUSD', 80)
