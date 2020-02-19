@@ -7,17 +7,17 @@
  
   GM_setValue('dynLevelCoef_BTCUSD', 1.92)
   GM_setValue('dynLevelCoef_ETHUSD', 1.79)
-  GM_setValue('dynLevelCoef_XRPUSD', 1.75)
-  GM_setValue('dynLevelCoef_ETCUSD', 1.89)
-  GM_setValue('dynLevelCoef_ZECUSD', 1.99)
-  GM_setValue('dynLevelCoef_DASHUSD', 2.09)
- 
-  GM_setValue('dynLevelSafe_BTCUSD', 60)
+  GM_setValue('dynLevelCoef_XRPUSD', 1.94)
+  GM_setValue('dynLevelCoef_ETCUSD', 1.98)
+  GM_setValue('dynLevelCoef_ZECUSD', 1.96)
+  GM_setValue('dynLevelCoef_DASHUSD', 2.11)
+
+  GM_setValue('dynLevelSafe_BTCUSD', 50)
   GM_setValue('dynLevelSafe_ETHUSD', 50)
   GM_setValue('dynLevelSafe_XRPUSD', 50)
   GM_setValue('dynLevelSafe_ETCUSD', 50)
-  GM_setValue('dynLevelSafe_ZECUSD', 55)
-  GM_setValue('dynLevelSafe_DASHUSD', 55)
+  GM_setValue('dynLevelSafe_ZECUSD', 70)
+  GM_setValue('dynLevelSafe_DASHUSD', 70)
  
   GM_setValue('diffSafe_BTCUSD', [-100, 100])
   GM_setValue('diffSafe_ETHUSD', [-100, 100])
@@ -26,6 +26,6 @@
   GM_setValue('diffSafe_ZECUSD', [-100, 100])
   GM_setValue('diffSafe_DASHUSD', [-100, 100])
  
-  GM_setValue('delayLevelToMinOrder', 1.4)
+  GM_setValue('delayLevelToMinOrder', 1.38)
   GM_setValue('delayLevelToStop', 2)
   GM_setValue('orderMinDelay', 1)
