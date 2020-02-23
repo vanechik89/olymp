@@ -29,3 +29,4 @@
   GM_setValue('delayLevelToMinOrder', 1.38)
   GM_setValue('delayLevelToStop', 2)
   GM_setValue('orderMinDelay', 1)
+  GM_setValue('minDelayBetweenOrdersSecDelay', [7200, 10800])
