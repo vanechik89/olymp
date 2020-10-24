@@ -26,7 +26,7 @@
   GM_setValue('diffSafe_ZECUSD', [-100, 100])
   GM_setValue('diffSafe_DASHUSD', [-100, 100])
  
-  GM_setValue('delayLevelToMinOrder', 1.4)
+  GM_setValue('delayLevelToMinOrder', 0.99)
   GM_setValue('delayLevelToStop', 2)
   GM_setValue('orderMinDelay', 1)
   GM_setValue('minDelayBetweenOrdersSecDelay', [7200, 10800])
